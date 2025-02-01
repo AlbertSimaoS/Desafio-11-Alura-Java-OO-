@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
 public interface Tabuada {
+   void mostrarTabuada(int numero);
 }
